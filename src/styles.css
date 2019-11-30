@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+span {
+  display: block;
+}
+
+button {
+  margin-top: 10px;
+}
